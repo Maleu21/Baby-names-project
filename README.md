@@ -32,8 +32,8 @@ Placez le fichier suivants dans le dossier du projet :
 
 dpt2020.csv (trop lourd pour être présent sur ce repository)
 
-Exécutez le notebook Visualisation_bebe pour générer les visualisations :
+Exécutez le notebook baby_names_analysis.ipynb pour générer les visualisations :
 
 Visualisation 1 (évolution temporelle) et Visualisation 3 (effets de genre) s’affichent directement dans le notebook.
 
-Visualisation 2 (effets régionaux) est exportée sous forme de fichier HTML dans visualizations/regional_map.html à ouvrir dans un navigateur pour interagir avec la carte.
+Visualisation 2 (effets régionaux) est exportée sous forme de fichier HTML dans carte_prenoms.html à ouvrir dans un navigateur pour interagir avec la carte.
